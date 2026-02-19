@@ -8,7 +8,7 @@ KookaBlocs: Visual Programming Editor for Kookaberry Microprocessor Boards
 This editor operates on a drag-and-drop interface, making it beginner-friendly and highly intuitive. 
 It's built upon the open-source Google Blockly library (Apache 2 license), created by Google to facilitate the development of beginner-friendly programming languages.
 
-:numref:`welcomescript` shows a **KookaBlocs** script assembled from visual function blocks dragged onto the workspace 
+:numref:`welcomescript` shows a **KookaBlocs** script assembled from visual function blocks dragged onto the **Workspace** 
 from the palette of blocks on the left of the display.  
 The blocks click together like pieces of a jigsaw puzzle to form a series of steps that the **Kookaberry** microcomputer will perform.
 
@@ -46,16 +46,16 @@ Platform Compatibility:
 
 Easy Access: 
    The latest version of **KookaBlocs** can be conveniently downloaded from the AustSTEM website  
-   at https://auststem.com.au/kookablocs.
+   at https://auststem.com.au/KookaBlocs.
 
    Follow the :doc:`installing` guide in the next section to initiate and, for offline use, to install **KookaBlocs**.
 
 Programming With KookaBlocs
 -----------------------------
 
-Using **KookaBlocs** is straightforward and enjoyable. 
+Using **KookaBlocs** is straight forward and enjoyable. 
 
-Users can drag and drop visual code blocks into the workspace, where they can be seamlessly interlocked or snapped together using sockets. 
+Users can drag and drop visual code blocks into the **Workspace**, where they can be seamlessly interlocked or snapped together using sockets. 
 
 These sockets represent fundamental code concepts, including program controls (activation, termination, loops, and decisions), actions, and result computations (variables, values, mathematical and logical expressions). 
 

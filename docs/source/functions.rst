@@ -21,7 +21,7 @@ This simplifies scripts and saves valuable computer memory space.
 
 .. important:: 
 
-    The function definition must remain in the **KookaBlocs** workspace for it to remain available in the **Functions** palette.
+    The function definition must remain in the **KookaBlocs** **Workspace** for it to remain available in the **Functions** palette.
     Deleting the function definition will remove the function block from the palette and all instances of it from the script.
 
 
@@ -37,12 +37,12 @@ the function’s block is used.
    :alt: Define Function Block
 
 
-To define a function, drag this block into the **KookaBlocs** workspace.
+To define a function, drag this block into the **KookaBlocs** **Workspace**.
 
 The block has a gear wheel which when clicked causes the definition box to appear:
 
 Once the definition of the function block is complete, click on the cog symbol once again to close the definition box.  
-Remember to leave the function definition block in the **KookaBlocs** workspace!
+Remember to leave the function definition block in the **KookaBlocs** **Workspace**!
 
 .. image:: images/functions-definition-paletted-block.png
    :scale: 50%
@@ -130,7 +130,7 @@ Here is an example where a function is defined to calculate the circumference of
 
 
 Once the definition of the function block is complete, click on the cog symbol once again to close the definition box.  
-Remember to leave the function definition block in the **KookaBlocs** workspace!
+Remember to leave the function definition block in the **KookaBlocs** **Workspace**!
 
 .. image:: images/functions-definition-return-paletted-block.png
    :scale: 50%

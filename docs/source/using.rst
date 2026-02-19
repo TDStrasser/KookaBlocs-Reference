@@ -29,7 +29,7 @@ App Controls
 These controls allow the **KookaBlocs** window to be minimises or maximised, and the **KookBlocs** application to be exited.  
 
 Depending on the web browser being used, there may be other controls for browser settings and functions. 
-:numref:'pwactrls' shows the appearance of these controls for the Microsoft Edge browser.
+:numref:`pwactrls` shows the appearance of these controls for the Microsoft Edge browser.
 
 
 .. _pwactrls:
@@ -48,7 +48,7 @@ Resizing of the window can also be accomplished by clicking on the window edges 
 Workspace
 ---------
 
-In the centre of the window is the **KookaBlocs** workspace.  
+In the centre of the window is the **KookaBlocs** **Workspace**.  
 
 Blocks can be dragged into this space, repositioned, resized and deleted by using the mouse or track-pad or pointing device.
 
@@ -57,10 +57,10 @@ Blocks Palette
 
 Down the left of the window is a vertically-oriented list of the **KookaBlocs** palette categories, shown in :numref:`blkspalette`. 
 
-Click on any category to reveal the palette of blocks, click on and drag the desired block to the workspace, 
+Click on any category to reveal the palette of blocks, click on and drag the desired block to the **Workspace**, 
 position it and release to drop the block in place.  The blocks palette will then automatically close.
 
-To close the blocks palette without dragging a block into the workspace, either click on the palette icon used to open the palette,
+To close the blocks palette without dragging a block into the **Workspace**, either click on the palette icon used to open the palette,
 or press the ``Esc`` key.
 
 .. _blkspalette:
@@ -102,19 +102,19 @@ See :numref:`serialselect`.
 
 
 New
-  Empties the workspace to start a new script. 
-  If the current canvas contains script blocks, then a prompt to confirm that all existing blocks be deleted is given as shown in :numref:`newprompt`.
+  Empties the **Workspace** to start a new script. 
+  If the current **Workspace** contains script blocks, then a prompt to confirm that all existing blocks be deleted is given as shown in :numref:`newprompt`.
 
 .. _newprompt:
 .. figure:: images/kblocs-new-confirm.png
    :width: 300
    :align: center
 
-   Prompt dialogue on attempting to clear the workspace containing an unsaved script. 
+   Prompt dialogue to clear the **Workspace**. 
 
 
 Load
-  The **Load** button allows the user to select a **KookaBlocs** program to be loaded into the Workspace, 
+  The **Load** button allows the user to select a **KookaBlocs** program to be loaded into the **Workspace**, 
   appending it to the current script.  This feature enables the assembling of scripts by combining separate script files.
 
   Move the cursor to this button, press click on the mouse and the dialogue in :numref:`loaddialg` will be displayed:
@@ -129,7 +129,7 @@ Load
 **KookaBlocs** script files usually have a type designation of ``.kby.py``.
 
 Selecting a script and pressing the dialogue's **Open** button, or alternatively double-clicking on a selected **KookaBlocs** script file 
-will place a copy of that script in the **KookaBlocs** Workspace from where it can be modified, saved and run on the **Kookaberry**.
+will place a copy of that script in the **KookaBlocs** **Workspace** from where it can be modified, saved and run on the **Kookaberry**.
 
 .. important::
     
@@ -137,13 +137,12 @@ will place a copy of that script in the **KookaBlocs** Workspace from where it c
 
 Save 
   Scripts that are loaded or created are regarded as newly-created scripts.  This is because the **Load** action imports blocks onto the script
-  canvas adding to any blocks that are already present.
+  **Workspace** adding to any blocks that are already present.
   
   The **Save** button has two behaviours:
-  1. On the first click it will open the Save As file dialogue in which the location and name of the script file is entered. 
-  There are some confirmation dialogues that will then occur. These are more fully described in Save As description.
-  1. Thereafter, the currently open script will be save into the same file with a confirming dialogue. 
-  Click on the **OK** button to close the dialogue.
+
+  1. On the first click it will open the Save As file dialogue in which the location and name of the script file is entered. There are some confirmation dialogues that will then occur. These are more fully described in Save As description.
+  2. Thereafter, the currently open script will be save into the same file with a confirming dialogue. Click on the **OK** button to close the dialogue.
 
 .. _filesaveddialg:
 .. figure:: images/kblocs-save-confirm.png
@@ -165,11 +164,15 @@ Save As
 
    **KookaBlocs** script Save / Save As file selection dialogue. 
 
-**KookaBlocs** script files have a type designation of ``.kby.py``.
+  **KookaBlocs** script files have a type designation of ``.kby.py``.
 
-Enter the new file's name and press the dialogue's **Save** button will save the current script to the file.  
-If the file already exists, another dialogue shown in :numref:`filereplacedialg` will open asking to confirm whether the file is to be replaced.  
-Press **Yes** to overwrite the file, or **No** to go back and change the intended file name.
+  The default file name will be the name of the last file loaded, or if the script is newly created will be ``program.kby.py``. 
+ 
+  If required, edit the new file's name and press the dialogue's **Save** button to save the current script to the file.  
+
+  If the file already exists, another dialogue shown in :numref:`filereplacedialg` will open asking to confirm whether the existing file is to be replaced.  
+  Press **Yes** to overwrite the file, or **No** to go back and change the intended file name. 
+  Please note that the appearance of this dialogue is dependent on the browser and operating system being used.
 
 .. _filereplacedialg:
 .. figure:: images/kblocs-confirm-saveas.png
@@ -178,8 +181,8 @@ Press **Yes** to overwrite the file, or **No** to go back and change the intende
 
    **KookaBlocs** existing file name dialogue. 
 
-A second confirmation dialogue will then appear warning that a Python file can be dangerous and that it should only be saved if the KookaBlocs app is trusted.
-Confirm the save by clicking the **Save** button, or cancel the save by clicking **Don't Save**. By cancelling, the script will not have been saved.
+  A second confirmation dialogue will then appear warning that a Python file can be dangerous and that it should only be saved if the KookaBlocs app is trusted.
+  Confirm the save by clicking the **Save** button, or cancel the save by clicking **Don't Save**. By cancelling, the script will not have been saved.
 
 .. _saveconfirmdialg:
 .. figure:: images/kblocs-confirm-save.png
@@ -188,10 +191,10 @@ Confirm the save by clicking the **Save** button, or cancel the save by clicking
 
    **KookaBlocs** confirm file save dialogue. 
 
-Subsequent script edits in the current editing session can be saved into the already identified file by clicking on **Save**.
+  Subsequent script edits in the current editing session can be saved into the already identified file by clicking on **Save**.
 
 Print
-  Prints the current view of the script in the workspace, *which may not be the whole script*.  
+  Prints the current view of the script in the **Workspace**, *which may not be the whole script*.  
   Using the **Zoom** buttons and **Scroll Bars**, adjust the view of the script to suit the printout desired.
 
   When the **Print** button is clicked, a Print dialogue (per the operating system convention) appears as in :numref:`printdialg`.
@@ -211,6 +214,8 @@ Print
 Run
   Transfers the current script to the tethered **Kookaberry** and runs the script on the **Kookaberry**.
 
+  If a Kookaberry has not been already connected, the **Connect** dialogue will first appear.
+
 Stop
   Terminates the script currently running on the tethered **Kookaberry**.
 
@@ -222,10 +227,9 @@ Show Python
 
   The MicroPython is read-only and cannot be edited within this window.
 
-  There is a check-box which when ticked will cause the script window to stay visible in front of other windows on the computer screen.
-
   This window presents a live view of the generated MicroPython script and it is possible to watch the MicroPython script being dynamically 
-  altered as the **KookaBlocs** script is being edited.
+  altered as the **KookaBlocs** script is being edited. You must position this window so it stays visible and 
+  not obscured by the **KookaBlocs** **Workspace** window to continue to observe the script changes.
 
 .. _showscript:
 .. figure:: images/kblocs-show-script-window.png
@@ -266,11 +270,12 @@ Show display
 
 Info
   The **Info** button will open a dialogue with three buttons:
+
   1. **About** will show a short descriptive text About **KookaBlocs**
   2. **Disclaimer** will show a short legal disclaimer and the terms of use for **KookaBlocs**.
   3. **Documentation** will show the links to **KookaBlocs** and related documentation, including to this Reference Guide.
 
-  To close the dialogue, click on the small exit icon or click on the **KookaBlocs** script canvas.
+  To close the dialogue, click on the small exit icon or click on the **KookaBlocs** **Workspace**.
 
 
 .. _showkblocsinfo:
@@ -294,31 +299,29 @@ At the bottom-right of the window is a set of control icons as shown in :numref:
 
 Centre Script
   for centering the **KookaBlocs** script.
-  Clicking on the Centre icon will centre the script in the Workspace and zoom it to fit the **KookaBlocs** window.
+  Clicking on the Centre icon will centre the script in the **Workspace** and zoom it to fit the **KookaBlocs** window.
 
 Zoom Script
   for changing the visual size of the **KookaBlocs** script by zooming in and out.
 
-  Click on the `+` icon to zoom in and visually enlarge the script.
-
-  Click on the `-` icon to zoom out and visually shrink the script.
+  * Click on the `+` icon to zoom in and visually enlarge the script.
+  * Click on the `-` icon to zoom out and visually shrink the script.
   
 
 Trash
-  for retrieving blocks that were deleted during the current editing session.  
+  For the duration of a script editing session, deleted blocks are placed in the **Trash**. 
+  It is possible to retrieve deleted blocks from the **Trash**, but only during the current editing session.  
 
-  Click on the Trash icon to open it and show the blocks that have been deleted in the current editing session.
+  * Click on the **Trash** icon to open it and show the blocks that have been deleted in the current editing session.
+  * To retrieve a block from the **Trash**, click on the block and drag it back into the **Workspace**.
+  * To close the **Trash** press the ``Esc`` key.
 
-  To retrieve a block from the Trash, click on the block and drag it back into the Workspace.
-
-  To close the Trash press the ``Esc`` key.
-
-  When **KookaBlocs** is closed the contents of the Trash are deleted.
+  When **KookaBlocs** is closed the contents of the **Trash** are deleted.
 
 Scrollbars
-  there are horizontal and vertical scrollbars for positioning the **KookaBlocs** workspace within the window.  
+  there are horizontal and vertical scrollbars for positioning the **KookaBlocs** **Workspace** within the window.  
 
-  Click on a scrollbar and drag it up/down or left/right as appropriate to reposition the Workspace in the **KookaBlocs** window.
+  Click on a scrollbar and drag it up/down or left/right as appropriate to reposition the **Workspace** in the **KookaBlocs** window.
 
 
  

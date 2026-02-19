@@ -20,8 +20,8 @@ This new iteration of tools are:
 * much simpler to access, 
 * support an enlarged set of computer types, particularly the Chromebook,
 * can be installed as Progressive Web Applications (PWA) for off-line use,
-* much simpler to keep up to date,
-* less vulnerable to malware.
+* are much simpler to keep up to date,
+* are less vulnerable to malware.
 
 Accessing KookaBlocs
 --------------------
@@ -62,7 +62,7 @@ is not supported on these devices.
 Installing KookaBlocs
 ---------------------
 
-On all four compatible browsers, PWAs are installed from the address bar (or app menu) when the site is PWA‑capable, 
+On all compatible browsers, PWAs are installed from the address bar (or app menu) when the site is PWA‑capable, 
 and uninstalled from the browser’s app list or OS app management. The exact labels and locations differ slightly per browser.
 
 Below is a concise summary per browser.

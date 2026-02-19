@@ -3,7 +3,7 @@ Clock
 -----
 
 Clicking on the **Clock** category in the **KookaSuite** palette reveals the available blocks, as in :numref:`clkpalette`.  
-Click and drag any of the required blocks to the **KookaBlocs** workspace and connect with other blocks 
+Click and drag any of the required blocks to the **KookaBlocs** **Workspace** and connect with other blocks 
 to build a script that can use and/or set the time.
 
 .. _clkpalette:

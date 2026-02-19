@@ -17,7 +17,7 @@ This document describes how to use to the **KookaBlocs** visual scripting tool.
 **KookaBlocs** and the **KookaCode** script editing tool were commissioned by the AustSTEM Foundation 
 and created by Damien George for the **Kookaberry**.
 
-This guide is for **KookaBlocs** v1.10.0.
+This guide is for **KookaBlocs** v1.0.
 
 The document is in TWO parts:
 
@@ -38,7 +38,7 @@ The document is in TWO parts:
 
    All the scripts used in this guide are available for downloading from Github and following the instructions on the `README`_ page:
 
-.. _README: https://github.com/TDStrasser/KookaBlockly-Reference/tree/9823056ad87da55329b65082e39b0654e418a5e6/examples
+.. _README: https://github.com/TDStrasser/KookaBlocs-Reference/tree/main/examples
 
 
 :Errata:

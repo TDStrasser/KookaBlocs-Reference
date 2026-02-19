@@ -5,10 +5,10 @@ KookaBlocs Conventions
 The blocks palette is on the left of the display organised into functionally related categories.  
 
 Clicking on a category, for example the **Control** category, reveals the blocks available within that category.  
-To use the block, click on it and drag it onto the **KookaBlocs** workspace and release, and/or drag it into position until it snaps onto an adjacent block. 
-Any block in the workspace can be clicked on and dragged into position.
+To use the block, click on it and drag it onto the **KookaBlocs** **Workspace** and release, and/or drag it into position until it snaps onto an adjacent block. 
+Any block in the **Workspace** can be clicked on and dragged into position.
 
-The blocks palette will close automatically when a block is dragged into the workspace.  
+The blocks palette will close automatically when a block is dragged into the **Workspace**.  
 Otherwise, the palette can be closed by clicking on the same block palette symbol that was used to open the palette,
 or by pressing the ``Esc`` key on the keyboard.
 
@@ -63,7 +63,7 @@ Right-clicking on a block also presents a set of option as below.  These include
    :alt: Block Right-Click Options
 
 Duplicate		
-   Click on Duplicate to create a duplicate of the block and any connected sub-blocks in the workspace.
+   Click on Duplicate to create a duplicate of the block and any connected sub-blocks in the **Workspace**.
    
    Sub-blocks for example are all the blocks nested within a control block, or any value blocks connected to an action block.
 
@@ -79,7 +79,7 @@ Add Comment
 Collapse Block
    Click on Collapse Block to truncate the block.  
 
-   This is useful when a large number of blocks are in the workspace and the user wants to make a block smaller so that it is easier to see other blocks.  
+   This is useful when a large number of blocks are in the **Workspace** and the user wants to make a block smaller so that it is easier to see other blocks.  
 
    The user can restore the collapsed block at any time.
 
@@ -93,13 +93,13 @@ Delete Block
 
    Right click on the block and then choose Delete Block to delete the block from the script or press the Delete key on the keyboard.   
 
-   Blocks can also be deleted by clicking on a block, separating it from the graphical script and dragging it into the Trash.
+   Blocks can also be deleted by clicking on a block, separating it from the graphical script and dragging it into the **Trash**.
 
-   Clicking on the Trash icon, which is at the bottom-right of the Workspace, opens the lid and displays the deleted items.  
+   Clicking on the **Trash** icon, which is at the bottom-right of the Workspace, opens the lid and displays the deleted items.  
 
-   Any deleted item may be dragged back into the workspace to become part of the program.  
+   Any deleted item may be dragged back into the **Workspace** to become part of the program.  
 
-   Clicking on a blank area of the workspace closes the Trash.
+   Clicking on a blank area of the **Workspace** closes the **Trash**.
 
 Text Delimiters
 ---------------
@@ -113,14 +113,14 @@ and will be misinterpreted rendering the saved **KookaBlocs** file unusable (wit
 Deleting Blocks
 ---------------
 
-Any block in the workspace, including any attached input blocks, can be removed from the script by:
+Any block in the **Workspace**, including any attached input blocks, can be removed from the script by:
 
-1. dragging the block to the Trash at the bottom-right of the workspace.  
-   The Trash icon will show an open lid when the dragged block is correctly positioned.
+1. dragging the block to the **Trash** at the bottom-right of the **Workspace**.  
+   The **Trash** icon will show an open lid when the dragged block is correctly positioned.
 2. or by clicking on the block to highlight it (shows a yellow outline), then pressing the ``delete`` key (or ``backspace`` key on Windows).
 
 
-Blocks removed can be retrieved from the Trash by clicking on the Trash icon.  A grey box will appear containing all of the deleted blocks.
-To retrieve a block, drag it back into the workspace. The Trash will then close automatically.
+Blocks removed can be retrieved from the **Trash** by clicking on the **Trash** icon.  A grey box will appear containing all of the deleted blocks.
+To retrieve a block, drag it back into the **Workspace**. The **Trash** will then close automatically.
 
-To close the Trash without dragging a block into the workspace, press on the ``Esc`` key.
+To close the **Trash** without dragging a block into the **Workspace**, press on the ``Esc`` key.
