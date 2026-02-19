@@ -117,7 +117,13 @@ Load
   The **Load** button allows the user to select a **KookaBlocs** program to be loaded into the **Workspace**, 
   appending it to the current script.  This feature enables the assembling of scripts by combining separate script files.
 
-  Move the cursor to this button, press click on the mouse and the dialogue in :numref:`loaddialg` will be displayed:
+  Move the cursor to this button, press click on the mouse and the dialogue in :numref:`loaddialg` will be displayed.
+
+  **KookaBlocs** script files usually have a type designation of ``.kby.py``.
+
+  Selecting a script and pressing the dialogue's **Open** button, or alternatively double-clicking on a selected **KookaBlocs** script file 
+  will place a copy of that script in the **KookaBlocs** **Workspace** from where it can be modified, saved and run on the **Kookaberry**.
+
 
 .. _loaddialg:
 .. figure:: images/kblocs-load-dialogue.png
@@ -126,10 +132,6 @@ Load
 
    **KookaBlocs** script load file selection dialogue. 
 
-**KookaBlocs** script files usually have a type designation of ``.kby.py``.
-
-Selecting a script and pressing the dialogue's **Open** button, or alternatively double-clicking on a selected **KookaBlocs** script file 
-will place a copy of that script in the **KookaBlocs** **Workspace** from where it can be modified, saved and run on the **Kookaberry**.
 
 .. important::
     
@@ -165,7 +167,8 @@ Save As
 
    **KookaBlocs** script Save / Save As file selection dialogue. 
 
-  
+
+
 **KookaBlocs** script files have a type designation of ``.kby.py``.
 
 The default file name will be the name of the last file loaded, or if the script is newly created will be ``program.kby.py``. 
