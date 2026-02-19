@@ -166,7 +166,7 @@ Save As
    **KookaBlocs** script Save / Save As file selection dialogue. 
 
   
-  **KookaBlocs** script files have a type designation of ``.kby.py``.
+**KookaBlocs** script files have a type designation of ``.kby.py``.
 
 The default file name will be the name of the last file loaded, or if the script is newly created will be ``program.kby.py``. 
  
