@@ -103,7 +103,7 @@ See :numref:`serialselect`.
 
 New
   Empties the workspace to start a new script. 
-  If the current script contents have not been saved then a save prompt is given as shown in :numref:`newprompt`.
+  If the current canvas contains script blocks, then a prompt to confirm that all existing blocks be deleted is given as shown in :numref:`newprompt`.
 
 .. _newprompt:
 .. figure:: images/kblocs-new-confirm.png
