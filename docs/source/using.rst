@@ -144,6 +144,7 @@ Save
   1. On the first click it will open the Save As file dialogue in which the location and name of the script file is entered. There are some confirmation dialogues that will then occur. These are more fully described in Save As description.
   2. Thereafter, the currently open script will be save into the same file with a confirming dialogue. Click on the **OK** button to close the dialogue.
 
+
 .. _filesaveddialg:
 .. figure:: images/kblocs-save-confirm.png
    :width: 300
@@ -164,15 +165,16 @@ Save As
 
    **KookaBlocs** script Save / Save As file selection dialogue. 
 
+  
   **KookaBlocs** script files have a type designation of ``.kby.py``.
 
-  The default file name will be the name of the last file loaded, or if the script is newly created will be ``program.kby.py``. 
+The default file name will be the name of the last file loaded, or if the script is newly created will be ``program.kby.py``. 
  
-  If required, edit the new file's name and press the dialogue's **Save** button to save the current script to the file.  
+If required, edit the new file's name and press the dialogue's **Save** button to save the current script to the file.  
 
-  If the file already exists, another dialogue shown in :numref:`filereplacedialg` will open asking to confirm whether the existing file is to be replaced.  
-  Press **Yes** to overwrite the file, or **No** to go back and change the intended file name. 
-  Please note that the appearance of this dialogue is dependent on the browser and operating system being used.
+If the file already exists, another dialogue shown in :numref:`filereplacedialg` will open asking to confirm whether the existing file is to be replaced.  
+Press **Yes** to overwrite the file, or **No** to go back and change the intended file name. 
+Please note that the appearance of this dialogue is dependent on the browser and operating system being used.
 
 .. _filereplacedialg:
 .. figure:: images/kblocs-confirm-saveas.png
@@ -181,8 +183,8 @@ Save As
 
    **KookaBlocs** existing file name dialogue. 
 
-  A second confirmation dialogue will then appear warning that a Python file can be dangerous and that it should only be saved if the KookaBlocs app is trusted.
-  Confirm the save by clicking the **Save** button, or cancel the save by clicking **Don't Save**. By cancelling, the script will not have been saved.
+A second confirmation dialogue will then appear warning that a Python file can be dangerous and that it should only be saved if the KookaBlocs app is trusted.
+Confirm the save by clicking the **Save** button, or cancel the save by clicking **Don't Save**. By cancelling, the script will not have been saved.
 
 .. _saveconfirmdialg:
 .. figure:: images/kblocs-confirm-save.png
@@ -191,7 +193,7 @@ Save As
 
    **KookaBlocs** confirm file save dialogue. 
 
-  Subsequent script edits in the current editing session can be saved into the already identified file by clicking on **Save**.
+Subsequent script edits in the current editing session can be saved into the already identified file by clicking on **Save**.
 
 Print
   Prints the current view of the script in the **Workspace**, *which may not be the whole script*.  
