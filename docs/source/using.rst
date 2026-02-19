@@ -93,7 +93,7 @@ Connect
 
 See :numref:`serialselect`.
 
-.. _serialdropdown:
+.. _serialselect:
 .. figure:: images/serial-select.png
    :width: 300
    :align: center
