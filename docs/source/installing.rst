@@ -26,7 +26,7 @@ This new iteration of tools are:
 Accessing KookaBlocs
 --------------------
 
-Using a Chrome (or related) web browser on a personal computer, go to the following address https://auststem.com.au/kookablocs.
+Using a Chrome (or related) web browser on a personal computer, go to the following address https://auststem.com.au/KookaBlocs.
 
 The web browser should show the KookaBlocs interface as shown below:
 
