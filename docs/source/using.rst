@@ -106,7 +106,7 @@ New
   If the current script contents have not been saved then a save prompt is given as shown in :numref:`newprompt`.
 
 .. _newprompt:
-.. figure:: images/unsaved-new-prompt.png
+.. figure:: images/kblocs-new-confirm.png
    :width: 300
    :align: center
 
