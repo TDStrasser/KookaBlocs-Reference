@@ -6,7 +6,7 @@ This collection contains the **KookaBlocs** scripts used in the **KookaBlocs** R
 To use them, download them from this site and store them in your Kookaberry Scripts / KookaBlockly folder (or a sub-folder).
 Load the script using the **KookaBlocs** editor and with a **Kookaberry** tethered via USB, click on Run.
 
-There are also a couple of games written using KookaBlockly - 
+There are also a couple of games written using **KookaBlocs** - 
 
 * Sprites - two sprites, one running across the display, another dropping.  
   Steer the dropping sprite with the C and D buttons to hit the other sprite and score a point.

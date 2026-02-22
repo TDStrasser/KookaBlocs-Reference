@@ -1,5 +1,5 @@
-Access and Install KookaBlockly
-===============================
+Access and Install KookaBlocs
+=============================
 
 **KookaBlocs** is part of a set of code development and editing tools for the Kookaberry microcomputer 
 and other microcomputer boards that can use the Kooka firmware.

@@ -85,7 +85,7 @@ and is intended to demystify the vocabulary often used in association with compu
 
     IDE
       Integrated Development Environment - a software application that integrates code editing, testing and sometimes code debugging tools.  
-      Examples relevant to **KookaBlockly** and the **Kookaberry** are **KookaCode**, **KookaIDE** and **Thonny**. 
+      Examples relevant to **KookaBlocs** and the **Kookaberry** are **KookaCode**, **KookaIDE** and **Thonny**. 
       See also https://en.wikipedia.org/wiki/Integrated_development_environment
 
     STEM

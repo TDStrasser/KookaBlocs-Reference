@@ -40,7 +40,7 @@ Depending on the web browser being used, there may be other controls for browser
    The KookaBlocs PWA Controls
 
 .. important::
-  If the KookBlockly script has not been saved before attempting to exit **KookaBlocs** will exit anyway - 
+  If the **KookBlocs** script has not been saved before attempting to exit **KookaBlocs** will exit anyway - 
   it does not keep track of whether there are unsaved edits.  Please be careful to regularly save your work!
 
 Resizing of the window can also be accomplished by clicking on the window edges and dragging to resize.
