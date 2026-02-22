@@ -123,6 +123,11 @@ and is intended to demystify the vocabulary often used in association with compu
       **Raspbian** is based on the **Debian Linux** operating system.
       See also https://en.wikipedia.org/wiki/Raspberry_Pi_OS
 
+    Linux
+      Linux is an open-source operating system created by Linus Torvalds in 1991, designed to be similar to UNIX. 
+      It is widely used across various devices, including servers, personal computers, and smartphones, and is known for its reliability and security.
+      Refer to https://en.wikipedia.org/wiki/Linux.
+
     Thonny
       An open-source Integrated Development Environment tool tailored for programming in **Python**. 
       See https://en.wikipedia.org/wiki/Thonny

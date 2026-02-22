@@ -34,7 +34,7 @@ Depending on the web browser being used, there may be other controls for browser
 
 .. _pwactrls:
 .. figure:: images/pwa-controls.png
-   :width: 100
+   :width: 400
    :align: center
 
    The KookaBlocs PWA Controls
@@ -79,7 +79,7 @@ At the top of the window, a set of buttons with which **KookaBlocs** scripts may
 
 .. _scriptbtns:
 .. figure:: images/script-control-buttons.png
-   :width: 500
+   :width: 600
    :align: center
 
    The **KookaBlocs** Script Control Buttons
@@ -91,11 +91,11 @@ Connect
   connected to a tethered **Kookaberry**. Plugging in a **Kookaberry** usually automatically assigns a USB serial port.
   Select the serial port by clicking on it and then click the Connect button.
 
-See :numref:`serialselect`.
+  See :numref:`serialselect`.
 
 .. _serialselect:
 .. figure:: images/serial-select.png
-   :width: 300
+   :width: 400
    :align: center
 
    The Serial dialogue showing the available and used USB serial connection ports
@@ -107,7 +107,7 @@ New
 
 .. _newprompt:
 .. figure:: images/kblocs-new-confirm.png
-   :width: 300
+   :width: 400
    :align: center
 
    Prompt dialogue to clear the **Workspace**. 
@@ -149,7 +149,7 @@ Save
 
 .. _filesaveddialg:
 .. figure:: images/kblocs-save-confirm.png
-   :width: 300
+   :width: 400
    :align: center
 
    **KookaBlocs** file saved confirmation dialogue. 
@@ -181,7 +181,7 @@ Please note that the appearance of this dialogue is dependent on the browser and
 
 .. _filereplacedialg:
 .. figure:: images/kblocs-confirm-saveas.png
-   :width: 300
+   :width: 400
    :align: center
 
    **KookaBlocs** existing file name dialogue. 
@@ -191,7 +191,7 @@ Confirm the save by clicking the **Save** button, or cancel the save by clicking
 
 .. _saveconfirmdialg:
 .. figure:: images/kblocs-confirm-save.png
-   :width: 300
+   :width: 400
    :align: center
 
    **KookaBlocs** confirm file save dialogue. 
@@ -255,7 +255,7 @@ Show display
 
 .. _showdisplay:
 .. figure:: images/kblocs-show-display-window.png
-   :width: 300
+   :width: 400
    :align: center
 
    Virtual **Kookaberry** window
@@ -285,7 +285,7 @@ Info
 
 .. _showkblocsinfo:
 .. figure:: images/kblocs-show-info.png
-   :width: 300
+   :width: 400
    :align: center
 
    **KookaBlocs** info window
