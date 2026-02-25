@@ -14,7 +14,7 @@ This editor runs within Chrome, Vivaldi or Edge web browsers as a Progressive We
 Apple Mac OS, Linux and on Chromebooks.  
 It features a drag-and-drop programming interface, making it beginner-friendly and highly intuitive.
 
-This document describes how to use to the **KookaBlocs** visual scripting tool.
+This document describes how to use the **KookaBlocs** visual scripting development tool.
 
 **KookaBlocs** and the **KookaCode** script editing tool were commissioned by the AustSTEM Foundation 
 and created by Damien George for the **Kookaberry**.
