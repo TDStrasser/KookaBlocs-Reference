@@ -8,8 +8,10 @@
 Welcome to the KookaBlocs Reference Guide!
 """"""""""""""""""""""""""""""""""""""""""""
 
-**KookaBlocs** is a powerful visual scripting editor designed for the **Kookaberry** and related microprocessors. 
-This editor runs within a web browser as a Progressive Web Application (PWA).  
+**KookaBlocs** is a powerful visual scripting editor and prototyping tool designed for the **Kookaberry** and Raspberry Pi Pico microprocessors 
+running **Kookaberry** firmware. 
+This editor runs within Chrome, Vivaldi or Edge web browsers as a Progressive Web Application (PWA) on Personal Computers using Microsoft Windows, 
+Apple Mac OS, Linux and on Chromebooks.  
 It features a drag-and-drop programming interface, making it beginner-friendly and highly intuitive.
 
 This document describes how to use to the **KookaBlocs** visual scripting tool.
